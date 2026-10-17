@@ -1,6 +1,0 @@
-# robots.txt — Ahmed Ranks (ahmedranks.com)
-User-agent: *
-Allow: /
-
-# Sitemap
-Sitemap: https://ahmedranks.com/sitemap.xml
